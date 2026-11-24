@@ -1,0 +1,10 @@
+Experience building scalable backend services, APIs and distributed systems.
+Strong understanding of event-driven architectures, asynchronous processing and microservices.
+Experience working within AWS, Azure or GCP environments.
+Ability to deliver reliable, well-engineered software within a fast-moving product environment.
+Excellent communication skills and a collaborative mindset.
+
+Senior Backend Engineer - Nice to Have
+Experience within cybersecurity, identity, governance or enterprise SaaS environments.
+Knowledge of technologies such as OAuth, OIDC, SAML, SCIM, Entra ID or Okta.
+

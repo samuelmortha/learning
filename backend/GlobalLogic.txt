@@ -1,0 +1,14 @@
+Strong experience building robust, resilient and defensively coded distributed systems, ideally leveraging technologies such as Kafka and an understanding of designing and operating RESTful APIs at scale, including versioning, observability, monitoring, and forward, backward compatibility
+ Experience with event driven architectures, both orchestrated and choreographed is expected
+ Experience working effectively in teams that value autonomy and empowerment, where engineering excellence is aligned to product outcomes
+ Strong experience operating in distributed, cloud native environments with complex failure modes, requiring thoughtful approaches to system design and assurance
+ Proven ability to coach and mentor other engineers, supporting the growth and capability of the wider team
+ This is an opportunity for a technically minded individual to join us as a Software Engineer
+ You’ll be designing, producing, testing and implementing working software, working across the lifecycle of the system
+ Hone your existing software engineering skills and advance your career in this critical role
+
+
+Applying Agile methods to the development of software on the backlog
+ Producing resilient and long-lived software and acting flexibly to cope with future needs
+ Delivering intentional architecture and formulating emergent design through innovative ideas, experimentation and prototyping
+ Designing and developing software with a focus on the automation of build, test and deployment activities, using executable patterns
